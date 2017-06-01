@@ -1,24 +1,9 @@
-# README
+# Ruby on Rails Auth Template
+#### Has both OmniAuth and LocalAuth Working
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Env
+Load these environment variables. `export VARIABLENAME=VALUE` in terminal
+FACEBOOK_SECRET=
+FACEBOOK_APP_ID=
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
